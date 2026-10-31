@@ -1,0 +1,69 @@
+ingredient,unit,grams_per_unit,max_count
+Uova,egg without shell,50,60
+Tuorli,egg yolk,18,60
+Albumi,egg white,32,60
+Aglio,clove,3,40
+Scorza di limone,zest of one lemon,5,10
+Scorza d'arancia,zest of one orange,8,10
+Scorza di lime,zest of one lime,3,10
+Succo di limone,juice of one lemon,40,10
+Succo d'arancia,juice of one orange,80,10
+Succo di lime,juice of one lime,25,10
+Baccello di vaniglia,pod,3,10
+Rosmarino,sprig,1,40
+Timo,sprig,0.5,40
+Prezzemolo,sprig,2,40
+Alloro,leaf,0.2,40
+Basilico,leaf,0.5,60
+Salvia,leaf,0.3,40
+Menta,leaf,0.2,60
+Erba cipollina,stalk,0.3,60
+Maggiorana,sprig,0.5,40
+Aneto,sprig,1,40
+Origano,sprig,0.5,40
+Carote,carrot,80,20
+Sedano,stalk,40,20
+Peperoncino fresco,chili,10,20
+Peperoncino secco,dried chili,1,20
+Peperoncino,chili,10,20
+Cipolle,onion,150,20
+Cipolle bianche,onion,150,20
+Cipolle rosse,onion,150,20
+Cipolle dorate,onion,150,20
+Cipolle ramate,onion,150,20
+Cipolle rosse di Tropea,onion,150,20
+Scalogno,shallot,30,20
+Cipollotto fresco,spring onion,25,30
+Porri,leek,150,20
+Limoni,lemon,100,20
+Arance,orange,180,20
+Lime,lime,60,20
+Chiodi di garofano,clove,0.2,60
+Cannella in stecche,stick,3,10
+Pepe nero in grani,peppercorn,0.05,100
+Bacche di ginepro,berry,0.2,100
+Ginepro,berry,0.2,100
+Zucchine,zucchini,200,20
+Peperoni rossi,pepper,200,20
+Peperoni gialli,pepper,200,20
+Peperoni verdi,pepper,200,20
+Pomodori ramati,tomato,150,20
+Pomodorini ciliegino,cherry tomato,15,100
+Pomodorini datterini,cherry tomato,15,100
+Pomodorini,cherry tomato,15,100
+Patate,potato,150,30
+Carciofi,trimmed artichoke,100,20
+Avocado,peeled and pitted avocado,150,10
+Melanzane,eggplant,300,10
+Fragole,strawberry,15,100
+Lamponi,raspberry,4,100
+Olive nere,pitted olive,4,100
+Olive verdi,pitted olive,4,100
+Mele,apple,150,20
+Mele renette,apple,150,20
+Pere,pear,150,20
+Banane,peeled banana,120,20
+Kiwi,peeled kiwi,75,20
+Pesche,peach without stone,150,20
+Albicocche,apricot without stone,35,40
+Fiori di zucca,flower,3,40

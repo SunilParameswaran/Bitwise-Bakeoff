@@ -1,0 +1,23 @@
+{
+  "verified_on": "2026-10-31",
+  "python": "3.10.21",
+  "igraph": "1.0.0",
+  "scope": "Fresh dataset download, all four graph stages and prepare-only; no LLM calls or tasting",
+  "source_dataset_sha256": "b070f4a58b9614109479e27ac25ff29b38a000c20ce4bd59981fdcd35d1c8833",
+  "recipe_count": 1742,
+  "ingredient_count": 646,
+  "bipartite_nodes": 2390,
+  "bipartite_edges": 16254,
+  "ingredient_edges": 13873,
+  "communities": 33,
+  "candidate_count": 60,
+  "runs": 15,
+  "checks": [
+    "60 distinct ingredient sets",
+    "5\u201310 ingredients per candidate",
+    "500 g measured mass per candidate",
+    "5 offline unit tests passed"
+  ],
+  "preprocessed_recipe_rows": 1744,
+  "empty_recipe_rows": 2
+}
